@@ -1,0 +1,14 @@
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC3\bin\Debug\net8.0\MP03UF1AC3.exe
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC3\bin\Debug\net8.0\MP03UF1AC3.deps.json
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC3\bin\Debug\net8.0\MP03UF1AC3.runtimeconfig.json
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC3\bin\Debug\net8.0\MP03UF1AC3.dll
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC3\bin\Debug\net8.0\MP03UF1AC3.pdb
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC3\obj\Debug\net8.0\MP03UF1AC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC3\obj\Debug\net8.0\MP03UF1AC3.AssemblyInfoInputs.cache
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC3\obj\Debug\net8.0\MP03UF1AC3.AssemblyInfo.cs
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC3\obj\Debug\net8.0\MP03UF1AC3.csproj.CoreCompileInputs.cache
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC3\obj\Debug\net8.0\MP03UF1AC3.dll
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC3\obj\Debug\net8.0\refint\MP03UF1AC3.dll
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC3\obj\Debug\net8.0\MP03UF1AC3.pdb
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC3\obj\Debug\net8.0\MP03UF1AC3.genruntimeconfig.cache
+C:\Users\hugom\Desktop\DAW\Programacion\MP03UF1AC3\obj\Debug\net8.0\ref\MP03UF1AC3.dll
